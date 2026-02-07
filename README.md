@@ -18,8 +18,6 @@ What started as curiosity turned into years of disciplined problem-solving, debu
 
 I care about **strong fundamentals**, **clean logic**, and **writing code that holds up under responsibility** — not just code that “works once”.
 
-I’m aiming for **serious technical roles**, long-term projects, and teams that value ownership, reliability, and growth.
-
 ---
 
 ## 🛠 Core Skills

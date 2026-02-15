@@ -43,10 +43,6 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
   <img src="https://streak-stats.vercel.app?user=dragonblz&theme=tokyonight&hide_border=true&cache_seconds=0&v=3" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonblz&theme=tokyo-night&hide_border=true&area=true&cache_seconds=0&v=3" />
-</p>
-
 ---
 
 ## 🚀 What I Bring to a Team

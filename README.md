@@ -36,7 +36,7 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonblz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonblz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
 </p>
 
 <p align="center">

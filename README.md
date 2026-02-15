@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/dragonblz?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/dragonblz?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dragonblz?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/dragonblz?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -36,32 +36,19 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonblz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonblz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=0&v=3" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dragonblz&theme=tokyonight&hide_border=true&cache_seconds=0&v=2" />
+  <img src="https://streak-stats.vercel.app?user=dragonblz&theme=tokyonight&hide_border=true&cache_seconds=0&v=3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonblz&theme=tokyo-night&hide_border=true&area=true&cache_seconds=0&v=3" />
 </p>
 
 ---
 
 ## 🚀 What I Bring to a Team
 
-- Long-term dedication (coding since childhood)
-- Strong problem-solving mindset
-- Comfortable taking responsibility and ownership
-- Clear, structured thinking
-- Willing to learn fast and handle real-world complexity
-
----
-
-## 📬 Get in Touch
-
-- GitHub: **@dragonblz**
-- Open to collaboration, mentorship, and serious opportunities
-
----
-
-<p align="center">
-  <i>“Consistency beats talent. I focus on both.”</i>
-</p>
+- Long-term dedication (

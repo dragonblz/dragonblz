@@ -40,8 +40,7 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 </p>
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=dragonblz&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=dragonblz&theme=tokyonight&hide_border=true&cache_seconds=0
-)" />
+  <img src="[https://streak-stats.demolab.com?user=dragonblz&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=dragonblz&theme=tokyonight&hide_border=true&cache_seconds=0)" />
 </p>
 
 ---

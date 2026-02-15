@@ -46,5 +46,20 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 ---
 
 ## 🚀 What I Bring to a Team
+- Long-term dedication (coding since childhood)
+- Strong problem-solving mindset
+- Comfortable taking responsibility and ownership
+- Clear, structured thinking
+- Willing to learn fast and handle real-world complexity
 
-- Long-term dedication (
+---
+
+## 📬 Get in Touch
+- GitHub: **@dragonblz**
+- Open to collaboration, mentorship, and serious opportunities
+
+---
+
+<p align="center">
+  <i>“Consistency beats talent. I focus on both.”</i>
+</p>

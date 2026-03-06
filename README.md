@@ -40,7 +40,7 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=dragonblz&theme=tokyonight&hide_border=true&cache_seconds=0&v=3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragonblz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

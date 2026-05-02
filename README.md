@@ -36,11 +36,11 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonblz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonblz&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragonblz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonblz&show_icons=true&theme=tokyonight" />
 </p>
 
 ---

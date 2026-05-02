@@ -36,7 +36,7 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 ## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dragonblz" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dragonblz&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">

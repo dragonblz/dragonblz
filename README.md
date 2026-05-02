@@ -40,7 +40,7 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dragonblz/dragonblz/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dragonblz/dragonblz/output/snake-dark.svg" />
 </p>
 
 ---

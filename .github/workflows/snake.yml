@@ -24,6 +24,6 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: output
           build_dir: dist

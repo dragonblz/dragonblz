@@ -40,7 +40,7 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Building+Since+Age+11;Clean+Code+Matters" />
+  <img src="https://raw.githubusercontent.com/dragonblz/dragonblz/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

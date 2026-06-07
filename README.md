@@ -56,6 +56,8 @@ I care about **strong fundamentals**, **clean logic**, and **writing code that h
 
 ## 📬 Get in Touch
 - GitHub: **@dragonblz**
+- Email: **toningdragon64@gmail.com**
+- Discord: **akeno7097**
 - Open to collaboration, mentorship, and serious opportunities
 
 ---
